@@ -49,7 +49,7 @@ html {
 body {
   color: #5E5C7F;
   background-color: #F9F9FF;
-  font-family: "Rubik", sans-serif;
+font-family: Arial, Helvetica, sans-serif;
   font-size: 16px;
   line-height: 1.7;
   overflow-x: hidden;
@@ -83,7 +83,7 @@ img {
 /*=================================================================*/
 h1, h2, h3, h4, h5, h6 {
   color: #454360;
-  font-family: "Rubik", sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-weight: 700;
   margin: 20px 0;
 }
@@ -487,7 +487,7 @@ header.desktop-header-1 .vertical-menu li .switch {
 }
 header.desktop-header-1 .vertical-menu li a {
   color: #FFF;
-  font-family: "Rubik", sans-serif;
+font-family: Arial, Helvetica, sans-serif;
   font-size: 16px;
   font-weight: 700;
   width: 100%;
@@ -610,7 +610,7 @@ header.desktop-header-2 .vertical-menu li i {
 }
 header.desktop-header-2 .vertical-menu li a {
   color: #FFF;
-  font-family: "Rubik", sans-serif;
+font-family: Arial, Helvetica, sans-serif;
   font-size: 24px;
   font-weight: 700;
   width: 100%;
@@ -1132,7 +1132,7 @@ section.home.light .social-icons li a:hover {
 .portfolio-filter li {
   color: #5E5C7F;
   cursor: pointer;
-  font-family: "Rubik", sans-serif;
+font-family: Arial, Helvetica, sans-serif;
   font-size: 16px;
   font-weight: 700;
   position: relative;
@@ -1426,7 +1426,7 @@ select.portfolio-filter-mobile {
 }
 .blog-page-section .br-more a {
   border-radius: 60px;
-  font-family: "Rubik", sans-serif;
+font-family: Arial, Helvetica, sans-serif;
   font-size: 16px;
   font-weight: 700;
   overflow: hidden;
@@ -1541,7 +1541,7 @@ select.portfolio-filter-mobile {
 }
 .blog-page-section .comment-respond input[type=submit] {
   border-radius: 60px;
-  font-family: "Rubik", sans-serif;
+font-family: Arial, Helvetica, sans-serif;
   font-size: 16px;
   font-weight: 700;
   overflow: hidden;
@@ -1670,7 +1670,7 @@ select.portfolio-filter-mobile {
 }
 
 .text-link {
-  font-family: "Rubik", sans-serif;
+font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
   font-weight: 700;
   text-transform: uppercase;
@@ -1864,7 +1864,7 @@ body.dark .blog-page-section .blog-single {
 /*=================================================================*/
 .btn {
   border-radius: 30px;
-  font-family: "Rubik", sans-serif;
+font-family: Arial, Helvetica, sans-serif;
   font-size: 16px;
   font-weight: 700;
   overflow: hidden;
@@ -2386,7 +2386,7 @@ body.dark .blog-page-section .blog-single {
   border-radius: 25px;
   padding: 30px;
   text-align: left;
-  max-width: 650px;
+  max-width: 1000px;
   margin: 40px auto;
   position: relative;
 }
