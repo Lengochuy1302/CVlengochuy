@@ -2836,6 +2836,10 @@ body {
   overflow: hidden;
 }
 
+.col-md-4 {
+  margin-top: 20px;
+}
+
 .square {
   -webkit-animation: squares 9.5s linear infinite;
           animation: squares 9.5s linear infinite;
